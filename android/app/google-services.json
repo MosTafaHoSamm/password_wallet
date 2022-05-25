@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395039923396",
+    "project_id": "password-wallet-fac9f",
+    "storage_bucket": "password-wallet-fac9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395039923396:android:32e4389a2e37b1ade07d91",
+        "android_client_info": {
+          "package_name": "com.mostafa.password_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395039923396-v6csqp50tsqgt67tiv5bh01k9567ki8u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mostafa.password_wallet",
+            "certificate_hash": "011b2bbe9dcd63cd6597524a2cf98452c3cb71de"
+          }
+        },
+        {
+          "client_id": "395039923396-f2q7768eqaqttimunat2ckqchj8u3u2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAQeowMPRrSWYRC-cK32HZYd9Sh9hd7tI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395039923396-f2q7768eqaqttimunat2ckqchj8u3u2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
